@@ -2,7 +2,7 @@
 //Part 1
 const paintColor = "blue";
 const make = "Toyota";
-const model = "Yaris";
+const model = "Corrola";
 const year = "2009";
 const isManualTransmission = "true";
 const seats = 5;
