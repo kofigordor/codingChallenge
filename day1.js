@@ -4,10 +4,10 @@ const paintColor = "blue";
 const make = "Toyota";
 const model = "Yaris";
 const year = "2009";
-const isManualTransmission = "true";
+const isManualTransmission = true;
 const seats = 5;
 const mileage = 20000;
-const isElectric = "true";
+const isElectric = true;
 const drivePosition = "left-hand";
 
 console.log(
